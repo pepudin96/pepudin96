@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pepudin96
 - 👀 I’m interested in science and new technologies
-- 🌱 I’m currently learning in UEMC/ENYD a master degree in data analysis and abig data use
+- 🌱 I’m currently learning in UEMC/ENYD a master degree in big data analysis
 - 💞️ I’m looking to collaborate on some project where i could as participate as learn new skills
 - 📫 You can reach me by sending an email to albertolemunoz@gmail.com
 
